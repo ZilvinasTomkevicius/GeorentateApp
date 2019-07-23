@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "639147039295",
+    "firebase_url": "https://georentateapp.firebaseio.com",
+    "project_id": "georentateapp",
+    "storage_bucket": "georentateapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639147039295:android:d20ef5d14bb315d5",
+        "android_client_info": {
+          "package_name": "app.georentate.georentate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639147039295-elrjgfj5l88cvt1fko9gqjpm93ba6l7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.georentate.georentate_app",
+            "certificate_hash": "fe46d80b4714e64f37ec9aad26cf336836df0028"
+          }
+        },
+        {
+          "client_id": "639147039295-g481kmn1hm3bv75160qbqvqnlff43l7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcocFFlSY9VXMjK-fFB9C7nwppIfjnHOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639147039295-g481kmn1hm3bv75160qbqvqnlff43l7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
