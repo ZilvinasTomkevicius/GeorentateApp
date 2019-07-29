@@ -11,7 +11,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 @Module
 class ApiModule {
 
-    private val BASE_URL = "https://maps.googleapis.com/maps/api/directions/json?"
+    private val BASE_URL = "https://maps.googleapis.com"
 
     @Provides
     fun providesGoogleMapsApi(): GoogleMapsApi {
